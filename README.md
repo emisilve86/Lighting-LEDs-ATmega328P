@@ -1,6 +1,8 @@
 # 4x2 Lighting LEDs Matrix with ATmega328P
 
-This repository is intended to provide novice FW programmers with a guide for making hardware setup on a breadboard with Atmel ATmega328P-pu. Altough it introduces notions about electronic configurations which are typical of digital circuitry, it is a very simple guide that is the result of half a day's work with the ATmega328P microcontroller. Also the code provided and presented in this guide is very simple and allows to light a 4x2 matrix of LEDs with different patterns and frequencies.
+This repository is intended to provide novice FW programmers with a guide for making hardware setup on a breadboard with Atmel ATmega328P-pu. Altough it introduces notions about electronic configurations which are typical of digital circuitry, it is a very simple guide that is the result of half a day's work with the ATmega328P microcontroller. Also the code provided and presented in this guide is very simple and allows to light a 4x2 matrix of LEDs with different patterns and frequencies. The GIF below shows the result of the work described in this README.
+
+<p align="center"><img src="images/Working.gif" alt="drawing" width="90%"/></p>
 
 ## Introduction
 
@@ -84,6 +86,4 @@ We can then program the ATmega by starting the executable as shown below.
 
 <p align="center"><img src="images/Studio-ATmega-Programming.jpg" alt="drawing" width="90%"/></p>
 
-That' it. Below you can find a demo of our project where a 4x2 matrix of LEDs gets lighting with different patterns.
-
-<p align="center"><img src="images/Working.gif" alt="drawing" width="90%"/></p>
+That's it. Let's try to implement different patterns by yourself.
