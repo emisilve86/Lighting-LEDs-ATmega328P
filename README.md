@@ -86,7 +86,4 @@ We can then program the ATmega by starting the executable as shown below.
 
 That' it. Below you can find a demo of our project where a 4x2 matrix of LEDs gets lighting with different patterns.
 
-<video class="center" controls="true" allowfullscreen="true" poster="images/Programming.jpg" width="90%">
-	<source src="images/Working.mp4" type="video/mp4">
-	Your browser does not support the video tag.
-</video>
+[![Watch the video](images/Programming.jpg)](images/Working.mp4)
